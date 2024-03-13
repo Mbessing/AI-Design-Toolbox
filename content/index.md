@@ -77,8 +77,8 @@ Here is a flow you may use to get started considering how to use generative AI i
 * Define measureable **criteria for successful implementation**
 * **evaluate and adjust** after the course has run
 
-For a template and example look at [AI in 41031 Industrial Design](/AI_Course_Implementation_Planner_V1.pdf) 
-([.xls](/AI_Course_Implementation_Planner_V1.xls) format).
+For a template and example look at [AI in 41031 Industrial Design](/inspiration/AI_Course_Implementation_Planner_V1.pdf) 
+([.xls](/inspiration/AI_Course_Implementation_Planner_V1.xls) format).
 
 You can decide not to include generative AI tools or methods in your course, but students may nevertheless 
 wish to, or be inspired from elsewhere, to do so. You would then instead have to guide students on acceptable use (if any).
