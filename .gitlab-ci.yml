@@ -1,0 +1,18 @@
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+image:
+  name: registry.gitlab.com/pages/hugo/hugo_extended:latest
+
+pages:
+  script:
+    - hugo --gc --minify
+    # Compress
+    - find public -type f -regex '.*\.\(css\|html\|js\|txt\|xml\)$' -exec gzip -f -k {} \;
+    # - find public -type f -regex '.*\.\(css\|html\|js\|txt\|xml\)$' -exec brotli -f -k {} \;
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
