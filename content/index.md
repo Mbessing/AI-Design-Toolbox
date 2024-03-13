@@ -120,7 +120,7 @@ To get started, consider:
   * How should your students be trained in documenting the use of generative AI (citing properly)?
   * You may also want to review the [Critical Thinking](/checklists/critical_thinking) checklist.
 
-* Consider how this will **impact the [learning objectives]({{< ref "#learning-objectives" >}})**
+* Consider how this will impact the [learning objectives]({{< ref "#learning-objectives" >}})
 
 ----
 
