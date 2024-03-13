@@ -1,0 +1,27 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: DTU AI Info Hub
+theme: ["PaperMod"]
+
+menu:
+  main:
+    - name: FAQ
+      identifier: FAQ
+      url: /faq
+      weight: 5
+    - name: Checklists
+      identifier: Checklists
+      url: /checklists
+      weight: 5
+    - name: Inspiration
+      identifier: Inspiration
+      url: /inspiration
+      weight: 5
+    - name: Tools
+      identifier: Tools
+      url: /tools
+      weight: 5
+    - name: Rules
+      identifier: Rules
+      url: /rules
+      weight: 5
