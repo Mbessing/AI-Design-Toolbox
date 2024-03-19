@@ -9,13 +9,13 @@ menu:
       identifier: FAQ
       url: /faq
       weight: 5
-    - name: Checklists
-      identifier: Checklists
-      url: /checklists
-      weight: 5
     - name: Inspiration
       identifier: Inspiration
       url: /inspiration
+      weight: 5
+    - name: Checklists
+      identifier: Checklists
+      url: /checklists
       weight: 5
     - name: Tools
       identifier: Tools
