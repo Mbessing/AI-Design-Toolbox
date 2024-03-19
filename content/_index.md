@@ -17,7 +17,7 @@ Considering the level of engagement with generative AI in DTU courses, multiple 
 
 * **AI-adapted courses** where students _are encouraged in learning
   objectives_ to use AI, yet students are _partially_ prohibited from
-  using AI in exams. An example of such a course could be
+  using AI in the evaluation. An example of such a course could be
   02450 Introduction to machine learning,
   where the use of tools is tested in project reports, while a final
   personal assessment is carried out as a multiple-choice exam without
