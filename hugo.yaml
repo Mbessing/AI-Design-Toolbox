@@ -8,20 +8,20 @@ menu:
     - name: FAQ
       identifier: FAQ
       url: /faq
-      weight: 5
+      weight: 10
     - name: Inspiration
       identifier: Inspiration
       url: /inspiration
-      weight: 5
+      weight: 20
     - name: Checklists
       identifier: Checklists
       url: /checklists
-      weight: 5
+      weight: 30
     - name: Tools
       identifier: Tools
       url: /tools
-      weight: 5
+      weight: 40
     - name: Rules
       identifier: Rules
       url: /rules
-      weight: 5
+      weight: 50
