@@ -1,6 +1,7 @@
 ---
 title: ChatGPT
 description: OpenAI's ChatGTP (and related services)
+hiddenInHomeList: true
 ---
 
 ChatGPT is available at [https://chat.openai.com/](https://chat.openai.com/). There is a

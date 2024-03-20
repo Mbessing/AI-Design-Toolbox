@@ -1,6 +1,7 @@
 ---
 title: Critical Thinking
 description: ... a checklist
+hiddenInHomeList: true
 ---
 
 _By Lars Kai Hansen with input from Morten Mørup, Finn Årup Nielsen and Per Bækgaard_

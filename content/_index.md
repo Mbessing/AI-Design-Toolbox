@@ -136,7 +136,10 @@ Schmidt, Georgios Avanitidis, Vagn L Hansen, Kyveli Kompatsiari, Fabian Mager,
 Vassilis Lyberatos, Morten Mørup, Nicki Skafte, Federico Delusso, Hiba Nassar,
 Hanlu He, Beatrix Miranda Nielsen, Lasse Skytte Hansen, Sune Lehmann, Laura
 Alessandretti, Jonas Vestergaard, Tiberiu-Ioan Szatmari, Antonio Desiderio,
-Laurits Fredsgaard, Michael Deininger, Lene Kyhse Bisgaard, ... Lars Kai Hansen and Per Bækgaard._
+Laurits Fredsgaard, Michael Deininger, Lene Kyhse Bisgaard, 
+Esben Thormann, Sarah Renée Ruepp, Samuel Brüning Larsen,
+... Lars Kai Hansen and Per Bækgaard._
+
 
 Blame only the last author/editor for errors.
 

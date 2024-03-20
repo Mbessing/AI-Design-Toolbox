@@ -1,6 +1,8 @@
 ---
 title: AI in DTU Compute/Cogsys courses  
 description: Outcomes of a CogSys Workshop, Jan 30th, 2024 
+hiddenInHomeList: true
+tags: [ "workshop", "cogsys" ]
 ---
 
 **Participants:**
