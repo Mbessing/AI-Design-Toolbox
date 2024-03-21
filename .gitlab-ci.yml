@@ -16,3 +16,24 @@ pages:
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
 
+dtudeploy:
+  stage: deploy
+  script:
+    - apk update
+    - apk add rsync openssh-client
+    - mkdir -p ~/.ssh
+    - echo "$SSH_KNOWN_HOST" >> ~/.ssh/known_hosts
+    - echo "$SSH_PRIVATE_KEY" > ~/.ssh/key
+    - chmod -R 700 ~/.ssh
+    - eval "$(ssh-agent -s)"
+    - ssh-add ~/.ssh/key
+    - hugo --gc --minify
+    - find public -type f -regex '.*\.\(css\|html\|js\|txt\|xml\)$' -exec gzip -f -k {} \;
+    - rsync -cavz --delete public/ $REMOTE_DIR
+  artifacts:
+    paths:
+      - public/
+    expire_in: 4 weeks
+  only:
+    - master
+
