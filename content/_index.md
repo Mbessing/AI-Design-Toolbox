@@ -3,7 +3,7 @@ title: DTU AI Info Hub
 description: Getting Started
 ---
 
-Welcome to the **DRAFT/BETA** DTU AI Info Hub. 
+Welcome to the **BETA** DTU AI Info Hub. 
 
 This site is meant to assist you, as a course responsible, when considering the use of 
 generative AI (like OpenAI [ChatGPT](https://chat.openai.com/) and [DALL-E](https://openai.com/dall-e-3), 
@@ -27,9 +27,9 @@ Considering the level of engagement with generative AI in DTU courses, multiple 
   all phases of the course, during learning and in the exams/evaluation.
 
 There is a possibility that the two latter strategies may harvest an AI bonus 
-and engage students at more complex scientific levels than in pre-AI courses.
-
-For more on this, see e.g., notes from a [Workshop on AI in DTU Compute/Cogsys Courses](inspiration/cogsys-ai-workshop)
+and engage students at more complex scientific levels than in pre-AI courses. 
+For more on these categories, see e.g., notes from a 
+[Workshop on AI in DTU Compute/Cogsys Courses](inspiration/cogsys-ai-workshop)
 
 ----
 
@@ -56,9 +56,13 @@ In addition to the flows, this site is organised around the following sections t
 * [Rules](rules) -- Links to relevant rules and guidelines
 * [Tools](tools) -- An overview of (perhaps) relevant tools to get you started
 
+Feel free to use the [search](search) function or follow the [tags](tags).
+
 ----
 
 # Learning Objectives
+
+_Under construction_
 
 ----
 
@@ -86,7 +90,6 @@ For a template and example look at [AI in 41031 Industrial Design](/inspiration/
 You can decide not to include generative AI tools or methods in your course, but students may nevertheless 
 wish to, or be inspired from elsewhere, to do so. You would then instead have to guide students on acceptable use (if any).
 
-
 ----
 
 # Evaluation
@@ -97,20 +100,24 @@ To get started, consider:
 
 * What will be the difference between a student using generative AI and one that doesn't?
 
-* Consider to which degree generative AI is part of your course/teaching. 
+* Consider to which degree generative AI is (or will be) part of your course in teaching and assignments during the course.
 
 * Do you allow students to use generative AI in similar ways at the evaluation (exam or project hand-in)?
 
   * If NOT, how do you train the students to the evaluation/exam situation?
+
   * If you DO, but the use of generative AI needs to be limited, how will you ensure or check that students
     cannot use generative AI when not intended?
 
     * Do you need a pen-and-paper only exam (a strongly limited environment that would prevent students from running
       e.g. a large language model on their own computer is not currently available)
+
     * If not planning for a closed-book exam, what will the students be able to bring themselves (books, notes, ...)? 
       Will students then have to buy books instead of relying on electronic books?
+
     * Should some material be made available in print to the students, if they are limited in access to electronic resources?
       This could be e.g., a compendium or "cheat-sheet".
+
     * Should the evaluation be divided into multiple parts, where some parts allow the use of generative AI and others don't
 
 * If students are allowed to use generative AI more broadly for preparing the evaluation material (project report) or exam:
@@ -137,9 +144,10 @@ Vassilis Lyberatos, Morten Mørup, Nicki Skafte, Federico Delusso, Hiba Nassar,
 Hanlu He, Beatrix Miranda Nielsen, Lasse Skytte Hansen, Sune Lehmann, Laura
 Alessandretti, Jonas Vestergaard, Tiberiu-Ioan Szatmari, Antonio Desiderio,
 Laurits Fredsgaard, Michael Deininger, Lene Kyhse Bisgaard, 
-Esben Thormann, Sarah Renée Ruepp, Samuel Brüning Larsen,
+Esben Thormann, Sarah Renée Ruepp, Samuel Brüning Larsen, 
+Jens Øllgaard Duus, Vicky Johansen, Nina Fog, Johnny Carlsson, 
+Ditte Strunge Sass, Ulf Molich,
 ... Lars Kai Hansen and Per Bækgaard._
-
 
 Blame only the last author/editor for errors.
 
