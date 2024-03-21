@@ -146,7 +146,7 @@ Alessandretti, Jonas Vestergaard, Tiberiu-Ioan Szatmari, Antonio Desiderio,
 Laurits Fredsgaard, Michael Deininger, Lene Kyhse Bisgaard, 
 Esben Thormann, Sarah Renée Ruepp, Samuel Brüning Larsen, 
 Jens Øllgaard Duus, Vicky Johansen, Nina Fog, Johnny Carlsson, 
-Ditte Strunge Sass, Ulf Molich,
+Ditte Strunge Sass, Ulf Molich, Michael Clasen Linderoth, Henning Christiansen,
 ... Lars Kai Hansen and Per Bækgaard._
 
 Blame only the last author/editor for errors.
