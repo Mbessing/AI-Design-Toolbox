@@ -1,6 +1,6 @@
 baseURL: https://www.ai.dtu.dk
 languageCode: en-us
-title: DTU AI Info Hub (DRAFT)
+title: DTU AI Info Hub (Beta)
 theme: ["PaperMod"]
 hiddenInHomeList: true
 
@@ -42,6 +42,10 @@ outputs:
     - JSON # necessary for search
 
 params:
+  label:
+    icon: "Danmarks_Tekniske_Universitet_(logo).png"
+    text: "DTU AI Info Hub (Beta)"
+    iconHeight: 48
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
