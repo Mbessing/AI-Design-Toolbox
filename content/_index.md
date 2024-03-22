@@ -208,3 +208,7 @@ Vicky Johansen,
 
 Blame only the last author/editor for errors.
 
+If you spot errors or have comments/questions/suggestions,
+feel free to reach out to [Lene Bisgaard](mailto:lkbi@dtu.dk?subject=DTU-AI )
+or [Per Bækgaard](mailto:pgba@dtu.dk?subject=DTU-AI ).
+
