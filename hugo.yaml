@@ -6,33 +6,37 @@ hiddenInHomeList: true
 
 menu:
   main:
+    - name: News
+      identifier: News
+      url: /news/
+      weight: 1
     - name: FAQ
       identifier: FAQ
-      url: /faq
+      url: /faq/
       weight: 10
     - name: Inspiration
       identifier: Inspiration
-      url: /inspiration
+      url: /inspiration/
       weight: 20
     - name: Checklists
       identifier: Checklists
-      url: /checklists
+      url: /checklists/
       weight: 30
     - name: Tools
       identifier: Tools
-      url: /tools
+      url: /tools/
       weight: 40
     - name: Rules
       identifier: Rules
-      url: /rules
+      url: /rules/
       weight: 50
     - name: Search
       identifier: search
-      url: /search
+      url: /search/
       weight: 60
     - name: Tags
       identifier: tags
-      url: /tags
+      url: /tags/
       weight: 70
 
 outputs:

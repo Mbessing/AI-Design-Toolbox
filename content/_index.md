@@ -96,7 +96,7 @@ wish to, or be inspired from elsewhere, to do so. You would then instead have to
 
 Generative AI will impact the evalution of many courses. 
 
-To get started, consider:
+To get started, you may consider:
 
 * What will be the difference between a student using generative AI and one that doesn't?
 
@@ -104,30 +104,40 @@ To get started, consider:
 
 * Do you allow students to use generative AI in similar ways at the evaluation (exam or project hand-in)?
 
-  * If NOT, how do you train the students to the evaluation/exam situation?
+  * If NOT, how do you then train the students to the evaluation/exam situation? Do you need e.g. to pen and paper
+    assignements also?
 
   * If you DO, but the use of generative AI needs to be limited, how will you ensure or check that students
     cannot use generative AI when not intended?
 
-    * Do you need a pen-and-paper only exam (a strongly limited environment that would prevent students from running
-      e.g. a large language model on their own computer is not currently available)
+    * Do you need a pen-and-paper only exam (unfortunately a strongly limited environment that would prevent 
+      students from running e.g. a large language model on their own computer is not currently available)
 
     * If not planning for a closed-book exam, what will the students be able to bring themselves (books, notes, ...)? 
-      Will students then have to buy books instead of relying on electronic books?
+      Will students then have to buy books, or print out material in advance, instead of relying on electronic books?
 
-    * Should some material be made available in print to the students, if they are limited in access to electronic resources?
-      This could be e.g., a compendium or "cheat-sheet".
+    * Should some material alternatively be made available in print to the students, if they are limited 
+      in access to electronic resources? This could be e.g., a compendium or "cheat-sheet".
 
-    * Should the evaluation be divided into multiple parts, where some parts allow the use of generative AI and others don't
+    * Should the evaluation be divided into multiple parts, where some parts allow the use of generative AI and others don't;
+      this could be in the form of project work that allows for use of generative AI and e.g. a multiple choice
+      exam without access to generative AI tools
 
 * If students are allowed to use generative AI more broadly for preparing the evaluation material (project report) or exam:
+
   * Can students be treated equally or would e.g. students with company-paid access to more advanced language model
     be able to get better grades at the exam
-  * How will your evaluation criteria shift -- perhaps more emphasis on process rather than results
-  * How should your students be trained in documenting the use of generative AI (citing properly)?
-  * You may also want to review the [Critical Thinking](/checklists/critical_thinking) checklist.
 
-* Consider how this will impact the [learning objectives]({{< ref "#learning-objectives" >}})
+  * How will your evaluation criteria shift? Perhaps more emphasis needs to be placed on the process rather 
+    than results obtained.
+
+  * How should your students be trained in documenting the use of generative AI (citing properly)?
+    Perhaps [DTU Library (2024). _Referencing when using generative AI._](https://www.bibliotek.dtu.dk/en/publishing/reference-management/kunstig-intelligens) could serve as a starting point
+
+  * You may also want to review the [Critical Thinking](/checklists/critical_thinking) checklist when
+    considering your evaluation criteria.
+
+* Also, consider how this will impact the [learning objectives]({{< ref "#learning-objectives" >}}) of the course.
 
 ----
 
@@ -135,18 +145,65 @@ To get started, consider:
 
 This site has been created with the collective intelligence of the following people:
 
-_Jes Frellsen, Chaudhary Ilyas, Rasmus Ørtoft Aagaard, A. Emilie Wedenborg, Tommy
-Alstrøm, Qianliang Li, Søren Føns, Lina Skerath, Finn Årup Nielsen, Jakob Eg
-Larsen, Susanne Winter, Ivana Konvalinka, Tobias Andersen, Søren Hauberg, Teresa
-Scheidt, Kristoffer Stensbo-Smidt, Lenka Tetkova, Camilla Narine, Mikkel N
-Schmidt, Georgios Avanitidis, Vagn L Hansen, Kyveli Kompatsiari, Fabian Mager,
-Vassilis Lyberatos, Morten Mørup, Nicki Skafte, Federico Delusso, Hiba Nassar,
-Hanlu He, Beatrix Miranda Nielsen, Lasse Skytte Hansen, Sune Lehmann, Laura
-Alessandretti, Jonas Vestergaard, Tiberiu-Ioan Szatmari, Antonio Desiderio,
-Laurits Fredsgaard, Michael Deininger, Lene Kyhse Bisgaard, 
-Esben Thormann, Sarah Renée Ruepp, Samuel Brüning Larsen, 
-Jens Øllgaard Duus, Vicky Johansen, Nina Fog, Johnny Carlsson, 
-Ditte Strunge Sass, Ulf Molich, Michael Clasen Linderoth, Henning Christiansen,
+_A. Emilie Wedenborg,
+Antonio Desiderio,
+Arnold Knott,
+Beatrix Miranda Nielsen,
+Camilla Narine,
+Chaudhary Ilyas,
+Ditte Strunge Sass,
+Esben Thormann,
+Fabian Mager,
+Federico Delusso,
+Finn Årup Nielsen,
+Georgios Avanitidis,
+Hanlu He,
+Henning Christiansen,
+Hiba Nassar,
+Ivana Konvalinka,
+Jakob Eg Larsen,
+Jens Øllgaard Duus,
+Jes Frellsen,
+Johnny Carlsson,
+Jonas Vestergaard,
+Josef Oehmen,
+Kristoffer Stensbo-Smidt,
+Kyveli Kompatsiari,
+Lars D. Christoffersen,
+Lars Rønn Olsen,
+Lasse Skytte Hansen,
+Laura Alessandretti,
+Laurits Fredsgaard,
+Lene Kyhse Bisgaard,
+Lenka Tetkova,
+Lina Skerath,
+Malene Bonné Meyer,
+Michael Clasen Linderoth,
+Michael Deininger,
+Mikkel N Schmidt,
+Morten Mørup,
+Nicki Skafte,
+Nina Fog,
+Peter Stanley Jørgensen,
+Qianliang Li,
+Rasmus Ørtoft Aagaard,
+Rasmus Reinhold Paulsen,
+Rasmus Sigurd Sundin,
+Samuel Brüning Larsen,
+Sarah Renée Ruepp,
+Søren Føns,
+Søren Hauberg,
+Sune Lehmann,
+Susanne Winter,
+Teresa Scheidt,
+Tiberiu-Ioan Szatmari,
+Tobias Andersen,
+Tommy Alstrøm,
+Tue Herlau,
+Ulf Molich,
+Vagn L Hansen,
+Vassilis Lyberatos,
+Vicky Johansen,
 ... Lars Kai Hansen and Per Bækgaard._
 
 Blame only the last author/editor for errors.

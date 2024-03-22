@@ -2,6 +2,7 @@
 title: ChatGPT
 description: OpenAI's ChatGTP (and related services)
 hiddenInHomeList: true
+tags: ["Tool", "ChatGPT", "Copilot"]
 ---
 
 ChatGPT is available at [https://chat.openai.com/](https://chat.openai.com/). There is a

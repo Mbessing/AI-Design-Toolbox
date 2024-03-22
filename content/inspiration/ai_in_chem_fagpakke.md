@@ -3,7 +3,7 @@ title: Brug af AI i Kemisk Fagprojekt
 description: Brug af AI i Kemisk Fagprojekt
 author: Esben Thormann
 hiddenInHomeList: true
-tags: [ "lessons", "feedback" ]
+tags: [ "lessons", "feedback", "DTU Chemistry", "BSc" ]
 ---
 
 ## Brug af AI i Kemisk fagprojekt
