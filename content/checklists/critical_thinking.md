@@ -3,9 +3,8 @@ title: Critical Thinking
 description: ... a checklist
 hiddenInHomeList: true
 tags: [ "Checklist" ]
+author: Lars Kai Hansen (with input from Morten Mørup, Finn Årup Nielsen and Per Bækgaard)
 ---
-
-_By Lars Kai Hansen with input from Morten Mørup, Finn Årup Nielsen and Per Bækgaard_
 
 Critical thinking is a set of complex cognitive processes, see, e.g.,
 the textbook by Moore and Parker for definitions, theory and

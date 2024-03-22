@@ -49,14 +49,14 @@ or the [Evaluation]({{< ref "#evaluation" >}}).
 
 In addition to the flows, this site is organised around the following sections that you can also browse directly:
 
-* [Checklists](checklists) -- A number of checklist to help you organise or plan your course
-* [Inspiration](inspiration) -- Examples from other courses and activities at DTU
-* [News](news) -- News from DTU highly relevant for using generative AI at DTU
-* [FAQ](faq) -- Frequently Asked Questions
-* [Rules](rules) -- Links to relevant rules and guidelines
-* [Tools](tools) -- An overview of (perhaps) relevant tools to get you started
+* [Checklists](checklists/) -- A number of checklist to help you organise or plan your course
+* [Inspiration](inspiration/) -- Examples from other courses and activities at DTU
+* [News](news/) -- News from DTU highly relevant for using generative AI at DTU
+* [FAQ](faq/) -- Frequently Asked Questions
+* [Rules](rules/) -- Links to relevant rules and guidelines
+* [Tools](tools/) -- An overview of (perhaps) relevant tools to get you started
 
-Feel free to use the [search](search) function or follow the [tags](tags).
+Feel free to use the [search](search/) function or follow the [tags](tags/).
 
 ----
 
