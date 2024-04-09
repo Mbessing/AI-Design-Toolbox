@@ -20,5 +20,6 @@ for a test in your course.
 - Read more here: [https://chattutor.io](https://chattutor.io).
 - See a short video which shows ChatTutor in action: [https://youtu.be/7_QK-jQZGVc](https://youtu.be/7_QK-jQZGVc).
 
+{{< youtube 7_QK-jQZGVc >}}
 
 
