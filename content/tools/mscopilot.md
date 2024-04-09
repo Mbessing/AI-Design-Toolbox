@@ -17,7 +17,7 @@ The full announcement can be found [here](https://www.dtu.dk/english/newsarchive
 
 In order to access the service, you can go to [Bing Chat](https://www.bing.com/chat) and log in with your DTU credentials.
 
-You can also use it [from within tghe Edge browser](https://www.inside.dtu.dk/da/medarbejder/it-og-telefoni/it-politik-og-retningslinjer/ai-paa-dtu/microsoft-ai/copilot-for-web). 
+You can also use it [from within the Edge browser](https://www.inside.dtu.dk/da/medarbejder/it-og-telefoni/it-politik-og-retningslinjer/ai-paa-dtu/microsoft-ai/copilot-for-web). 
 Read more at [Microsoft](https://www.microsoft.com/da-dk/edge/features/ai?form=MA13FJ).
 
 To get started prompting, you may also seek inspiration from [this article](https://www.inside.dtu.dk/da/medarbejder/it-og-telefoni/it-politik-og-retningslinjer/ai-paa-dtu/prompting-hvordan-skriver-du-til-ai).
