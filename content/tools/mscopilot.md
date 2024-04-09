@@ -27,7 +27,7 @@ The service also provides access to DALL-E, so you can prompt the service to gen
 Note, however, that the similarly named "Copilot 365" assistive technololgies in other Microsoft tools 
 (Word, Powerpoint, Outlook, ...) are [not included in the toolbox made available to DTU students and employees](https://www.inside.dtu.dk/da/medarbejder/it-og-telefoni/it-politik-og-retningslinjer/ai-paa-dtu/microsoft-ai/copilot-365).
 
-Neither are the similarly named "Copilot" tool found the Microsoft owned GitHub universe; however these may
+Neither are the similarly named ["Copilot" tool](https://education.github.com/experiences/primer_copilot) found in the Microsoft owned GitHub universe; however these may
 be available to students and faculty through a general academic version that requires separate registration and 
 verification. The license terms will then also be different.
 
