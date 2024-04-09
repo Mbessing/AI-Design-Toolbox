@@ -19,7 +19,7 @@ free version based on currently version 3.5. Version 4.0, including a number of 
 language models, are available as a subscription service.
 
 DTU gives access for students and employees to a somewhat similar language model from Microsoft, which you can find at 
-[https://copilot.microsoft.com/](https://copilot.microsoft.com/). 
+[https://copilot.microsoft.com/](https://copilot.microsoft.com/). Note that Microsoft is co-owner of OpenAI.
 
 See the [Microsoft Copilot]({{< ref "mscopilot.md" >}}) page for more info.
 
