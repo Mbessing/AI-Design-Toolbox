@@ -29,10 +29,6 @@ Note, however, that the similarly named "Copilot 365" assistive technololgies in
 
 Neither are the similarly named ["Copilot" tool](https://education.github.com/experiences/primer_copilot) found in the Microsoft owned GitHub universe; however these may
 be available to students and faculty through a general academic version that requires separate registration and 
-verification. The license terms will then also be different.
+verification. The license terms will then also be different. Check [GitHub's own explanation](https://docs.github.com/en/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot) for details. Once your academic status has been verified,
+you can enable GitHub Copilot in the menu, where it confirms whether you have been granted free access.
 
-
-
-----
-
-[1] "What is ChatGPT" prompt. ChatGPT (GPT-3.5, unknown version), OpenAI, April 9th, 2024.  https://chat.openai.com/ 

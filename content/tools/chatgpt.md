@@ -23,3 +23,7 @@ DTU gives access for students and employees to a somewhat similar language model
 
 See the [Microsoft Copilot]({{< ref "mscopilot.md" >}}) page for more info.
 
+
+----
+
+[1] "What is ChatGPT" prompt. ChatGPT (GPT-3.5, unknown version), OpenAI, April 9th, 2024.  https://chat.openai.com/
