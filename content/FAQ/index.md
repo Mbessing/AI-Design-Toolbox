@@ -110,9 +110,7 @@ blive opfordret til at benytte generativ AI til at løse opgaver.
 
 DTU har en ambition om, at AI på sigt er tilladt i størstedelen af vores
 kurser og til de fleste eksamener. Men vi starter med enkelte kurser og
-eksamener. For eksempler på kurser, hvor AI er indarbejdet i læringsmål,
-undervisnings- og eksamensform se mere her AI.teaching.inspiration.dtu
-(hvad skal Pers barn hedde?)
+eksamener. 
 
 ### Må studerende bruge AI i deres studier på DTU
 
