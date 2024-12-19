@@ -3,3 +3,4 @@ public
 .hugo_build.lock
 dtuai.zip
 tmp/
+"bin/hugo.exe" 
