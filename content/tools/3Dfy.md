@@ -14,6 +14,7 @@ cover:
   image: 3dfy.jpg
   hidden: false
   hiddenInList: false
+tool: ["framer"]
 tags:
   - Develop
   - Deliver
