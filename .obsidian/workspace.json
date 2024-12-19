@@ -11,14 +11,12 @@
             "id": "7c331b04f14299bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/tools/3Dfy.md",
-                "mode": "source",
-                "source": false
+                "file": "static/attachments/3dfy.jpg"
               },
-              "icon": "lucide-file",
-              "title": "3Dfy"
+              "icon": "lucide-image",
+              "title": "3dfy"
             }
           }
         ]
@@ -300,14 +298,15 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "7c331b04f14299bd",
+  "active": "e395b6c6c2da21a9",
   "lastOpenFiles": [
+    "static/attachments",
     "team-photo-3979775.jpg",
     "1674467533.jpg",
+    "content/tools/3Dfy.md",
     "content/tools/Google Gemini.md",
     "content/tools/DALL.E.md",
     "content/tools/Almanack AI.md",
-    "content/tools/3Dfy.md",
     "content/tools/_index.md",
     "Welcome.md",
     "create a link.md",
@@ -316,15 +315,14 @@
     "themes",
     "static/inspiration/AI_Course_Implementation_Planner_V1.xlsx",
     "static/inspiration/AI_Course_Implementation_Planner_V1.pdf",
-    "static/Vizcom.jpg",
-    "static/vectorizer.png",
-    "static/uizard.jpg",
-    "static/relume_ai.png",
-    "static/murf.png",
-    "static/Midjourney_Emblem.svg",
-    "static/magic_studio.png",
-    "static/Leonardo.jpg",
-    "static/Landing_Page_9.png",
+    "static/attachments/Vizcom.jpg",
+    "static/attachments/vectorizer.png",
+    "static/attachments/uizard.jpg",
+    "static/attachments/relume_ai.png",
+    "static/attachments/murf.png",
+    "static/attachments/Midjourney_Emblem.svg",
+    "static/attachments/magic_studio.png",
+    "static/attachments/Leonardo.jpg",
     "static/inspiration",
     "static",
     "layouts/partials/templates/_funcs/get-page-images.html",
