@@ -1,5 +1,5 @@
 ---
-title: 3DFY AI test
+title: 3DFY AI
 description: 
 hiddenInHomeList: true
 DoubleDiamond:
