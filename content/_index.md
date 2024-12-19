@@ -1,15 +1,19 @@
 ---
 title: DTU AI Info Hub
-description: Getting Started
+# description: Getting Started
 ---
 
-Welcome to the **BETA** DTU AI Info Hub. 
+<!-- # Why use AI in your design process? -->
 
-This site is meant to assist you, as a course responsible, when considering the use of 
-generative AI (like OpenAI [ChatGPT](https://chat.openai.com/) and [DALL-E](https://openai.com/dall-e-3), 
-Microsoft [Copilot](https://copilot.microsoft.com/), etc) in your course(s) at DTU.
+![Alt text](/ai_frontpage.webp)
 
-Considering the level of engagement with generative AI in DTU courses, multiple strategies may be  envisioned:
+Integrating AI into your design process can significantly enhance creativity and efficiency. AI-powered tools can generate design ideas, automate the creation of elements like layouts and color schemes, and provide highly personalized designs tailored to user preferences. By handling repetitive tasks such as resizing images and formatting, AI allows designers to focus on creativity. Additionally, AI can predict design trends, enhance collaboration through streamlined workflows, and improve user testing by simulating interactions. These capabilities ensure that designers stay ahead of the curve, create resonant designs, and ultimately deliver a more engaging user experience.
+
+<div style="text-align: center;">
+    <span style="font-size: 20px;">This text is larger and centered.</span>
+</div>
+
+<!-- Considering the level of engagement with generative AI in DTU courses, multiple strategies may be  envisioned:
 
 * **“No-no” courses** that teach students basic personal competences
   with limited use of AI during the course and no use of AI in exams.
@@ -211,5 +215,5 @@ Blame only the last author/editor for errors.
 
 If you spot errors or have comments/questions/suggestions,
 feel free to reach out to [Lene Bisgaard](mailto:lkbi@dtu.dk?subject=DTU-AI )
-or [Per Bækgaard](mailto:pgba@dtu.dk?subject=DTU-AI ).
+or [Per Bækgaard](mailto:pgba@dtu.dk?subject=DTU-AI ). -->
 
