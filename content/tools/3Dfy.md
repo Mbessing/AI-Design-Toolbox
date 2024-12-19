@@ -1,5 +1,5 @@
 ---
-title: 3DFY AI test
+title: 3DFY AI
 description: "[3DFY AI](https://3dfy.ai/) is a cutting-edge AI tool designed to generate 3D models from simple inputs like 2D images or text descriptions. Leveraging advanced machine learning algorithms, 3DFY AI aims to simplify the 3D modeling process, making it accessible to a broader audience, including designers, game developers, architects, and even those with little to no experience in 3D modeling. By automating the creation of detailed 3D objects, 3DFY AI significantly reduces the time and effort typically required in traditional 3D design workflows."
 hiddenInHomeList: true
 DoubleDiamond:
@@ -27,12 +27,9 @@ tags:
   - Design
   - Prototyping
 ---
-
-
-
-
-%% [3DFY AI](https://3dfy.ai/) is a cutting-edge AI tool designed to generate 3D models from simple inputs like 2D images or text descriptions. Leveraging advanced machine learning algorithms, 3DFY AI aims to simplify the 3D modeling process, making it accessible to a broader audience, including designers, game developers, architects, and even those with little to no experience in 3D modeling. By automating the creation of detailed 3D objects, 3DFY AI significantly reduces the time and effort typically required in traditional 3D design workflows. %%
-
+ [3DFY AI](https://3dfy.ai/) is a cutting-edge AI tool designed to generate 3D models from simple inputs like 2D images or text descriptions. Leveraging advanced machine learning algorithms, 3DFY AI aims to simplify the 3D modeling process, making it accessible to a broader audience, including designers, game developers, architects, and even those with little to no experience in 3D modeling. By automating the creation of detailed 3D objects, 3DFY AI significantly reduces the time and effort typically required in traditional 3D design workflows.
+ 
+![[team-photo-3979775.jpg]]
 ### Key Features:
 
 1. **2D-to-3D Conversion:**

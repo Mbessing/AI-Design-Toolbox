@@ -302,6 +302,8 @@
   },
   "active": "7c331b04f14299bd",
   "lastOpenFiles": [
+    "team-photo-3979775.jpg",
+    "1674467533.jpg",
     "content/tools/Google Gemini.md",
     "content/tools/DALL.E.md",
     "content/tools/Almanack AI.md",
@@ -323,7 +325,6 @@
     "static/magic_studio.png",
     "static/Leonardo.jpg",
     "static/Landing_Page_9.png",
-    "static/Landing_Page_8.png",
     "static/inspiration",
     "static",
     "layouts/partials/templates/_funcs/get-page-images.html",
@@ -348,7 +349,6 @@
     "content/examples/_index.md",
     "content/checklists/_index.md",
     "content/_index.md",
-    "archetypes/default.md",
     "Untitled 1.canvas"
   ]
 }
