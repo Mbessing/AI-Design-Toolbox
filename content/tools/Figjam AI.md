@@ -6,7 +6,13 @@ hiddenInHomeList: true
 cover:  
   image: "figjam.png"  
   hidden: false  
-  hiddenInList: false  
+  hiddenInList: false 
+  
+DoubleDiamond: ["Discover", "Define", "Develop", "Deliver"]
+Input: ["Image"]
+Output: ["Other"]
+Price: ["Free","Paid"]
+tool: ["FigJam AI"]  
 tags: ["Discover", "Define", "Develop", "Deliver", "Free Version", "Paid Version", "Collaboration", "Brainstorming", "Scheduling", "Time Management"]
 ---
 
@@ -14,7 +20,7 @@ tags: ["Discover", "Define", "Develop", "Deliver", "Free Version", "Paid Version
 
 ---
 
-### **Key Features:**
+### **Key Features**
 
 1. **AI-Powered Brainstorming:**  
    FigJam AI assists users during brainstorming sessions by generating ideas, suggesting content, and providing relevant prompts based on the context of the discussion. This feature helps teams explore new directions and solutions more effectively.
@@ -39,7 +45,7 @@ tags: ["Discover", "Define", "Develop", "Deliver", "Free Version", "Paid Version
 
 ---
 
-### **Pros:**
+### **Pros**
 
 1. **Enhanced Productivity:**  
    FigJam AI’s ability to generate ideas, group content, and offer real-time suggestions significantly boosts productivity, allowing teams to focus more on creative tasks and less on manual organization.
@@ -64,7 +70,7 @@ tags: ["Discover", "Define", "Develop", "Deliver", "Free Version", "Paid Version
 
 ---
 
-### **Cons:**
+### **Cons**
 
 1. **Dependence on AI Accuracy:**  
    The effectiveness of FigJam AI’s suggestions and automations relies heavily on the accuracy of its algorithms. Incorrect suggestions or groupings could lead to confusion or require manual corrections.
@@ -89,6 +95,6 @@ tags: ["Discover", "Define", "Develop", "Deliver", "Free Version", "Paid Version
 
 ---
 
-**Summary:**
+### **Summary**
 
 **FigJam AI** enhances the traditional FigJam experience by incorporating powerful AI-driven features that boost productivity, creativity, and collaboration. It is particularly beneficial for teams looking to streamline brainstorming sessions and improve idea generation. However, potential downsides include the cost of access, a learning curve for new users, and concerns about data privacy. Despite these challenges, FigJam AI represents a significant step forward in collaborative tools, offering valuable capabilities for modern, digital-first teams.

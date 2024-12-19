@@ -8,23 +8,19 @@ cover:
   hidden: false
   hidden: false
   hiddenInList: false
+DoubleDiamond: ["Discover", "Define", "Develop", "Deliver"]
+Input: ["Text"]
+Output: ["Text"]
+Price: ["Free","Paid"]
+tool: ["Google Gemini"]
 tags: ["Discover", "Define", "Develop", "Deliver", "Free Version", "Paid Version", "Language Model", "Text Generation", Code Assistance, "Brainstorming"]
 ---
 
-
-<!-- # FramerAi
-
-Status: In progress
-Input type: Text
-Output type: Code, Website
-Design task: Prototyping (https://www.notion.so/Prototyping-2c0240ccbef7456ca4d626c7d809e4c2?pvs=21), Visualize (https://www.notion.so/Visualize-fc111791fee4419383e35da2655e36be?pvs=21), Sketching / Visual Communication (https://www.notion.so/Sketching-Visual-Communication-22a58b85c08e49b48fd887e3444735d0?pvs=21), Product Delivery / Proof of concept (https://www.notion.so/Product-Delivery-Proof-of-concept-b3d4ff26d7ec41df9b45a62fd485a1cc?pvs=21)
-Price: Freemium -->
-
-<!-- # Description -->
-
 [Google Gemini](https://gemini.google.com/app)  is Google’s next-generation AI model, designed to compete with advanced AI systems like OpenAI’s GPT-4. It integrates multiple modalities, meaning it can process and understand text, images, and other forms of data in a unified way. Developed by Google DeepMind, Gemini is part of Google's larger push to enhance its AI capabilities across various platforms, including search, cloud services, and enterprise solutions. Gemini focuses on pushing the boundaries of AI in terms of reasoning, creativity, and interactivity, aiming to power Google’s ecosystem with smarter, more adaptive AI tools.
 
-### Key Features:
+---
+
+### Key Features
 1. **Multimodal Capabilities:**
 Unlike many AI models that specialize in one data type, Google Gemini can process and generate responses across multiple modalities, including text, images, audio, and potentially video. This allows it to handle diverse tasks, such as analyzing images, generating detailed reports, or understanding context across different forms of input.
 2. **Enhanced Reasoning and Problem Solving:**
@@ -42,9 +38,11 @@ Google has emphasized that Gemini was built with safety, privacy, and ethical co
 
 **In summary**, **Google Gemini AI** represents Google’s next step in creating a versatile, powerful AI model that integrates seamlessly into its services. Its multimodal capabilities, enhanced reasoning, and real-time data access make it a competitive option in AI. However, challenges like availability, costs, and competition could impact its adoption.
 
+---
+
 # Pros & Cons
 
-### **Pros:**
+### **Pros**
 
 1. **Multimodal Processing:**
 Gemini’s ability to handle text, images, and other data types within a single model makes it a versatile tool for a variety of applications, from content generation to data analysis and creative tasks.
@@ -59,7 +57,7 @@ Google’s commitment to creating a safer, less biased AI system is a notable ad
 6. **Developer-Friendly API:**
 With Google Cloud's support, developers can tap into Gemini's capabilities, integrating its advanced AI functions into their applications with flexibility and scalability.
 
-### **Cons:**
+### **Cons**
 
 1. **Limited Availability:**
 As of now, Gemini may be primarily accessible to a select group of users, enterprises, or developers, and may not yet be available for widespread public use in all regions. Its integration and full potential may take time to reach all users.
@@ -74,6 +72,4 @@ Despite Google’s emphasis on ethical AI, no system is entirely free from biase
 6. **Dependence on Google's Ecosystem:**
 Some users may find the deep integration into Google’s services restrictive, particularly if they prefer non-Google tools. Additionally, reliance on Google’s platform could limit flexibility for those looking for a more customizable AI experience.
 
-<!-- # FAQ -->
-
-<!-- [DTU AI Guidelines](/examples/landingpage/) -->
+---

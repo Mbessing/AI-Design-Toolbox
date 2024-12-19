@@ -7,14 +7,19 @@ cover:
   image: "relume_ai.png"  
   hidden: false  
   hiddenInList: false  
-tags: ["Develop", "Deliver", "Free Version", "Paid Version", "Website Design", "Prototyping", "UI/UX Design"]
+DoubleDiamond: ["Define", "Develop", "Deliver"]
+Input: ["Text", "Other"]
+Output: ["Wireframe", "Sitemap", "Other"]
+Price: ["Free","Paid"]
+tool: ["Relume AI"]
+tags: ["Define", "Develop", "Deliver", "Free Version", "Paid Version", "Website Design", "Prototyping", "UI/UX Design"]
 ---
 
 [Relume AI](https://www.relume.io/) is a specialized AI-powered tool designed to streamline the process of creating and designing websites. Focusing on automation and user experience, Relume AI assists designers, developers, and business owners in generating visually appealing and functional web pages with minimal effort. It leverages advanced algorithms to produce web layouts, suggest design elements, and even handle repetitive tasks, enabling users to focus more on creativity and content. Relume AI is particularly useful for those who want to build responsive, modern websites without extensive coding or design knowledge.
 
 ---
 
-### **Key Features:**
+### **Key Features**
 
 1. **AI-Generated Website Layouts:**  
    Relume AI can automatically generate complete website layouts based on user input or templates. This includes everything from landing pages to multi-page websites, all designed with modern aesthetics and functionality in mind.
@@ -39,7 +44,7 @@ tags: ["Develop", "Deliver", "Free Version", "Paid Version", "Website Design", "
 
 ---
 
-### **Pros:**
+### **Pros**
 
 1. **Rapid Website Development:**  
    Relume AI significantly reduces the time required to design and launch a website, making it ideal for businesses and individuals who need to get online quickly.
@@ -64,7 +69,7 @@ tags: ["Develop", "Deliver", "Free Version", "Paid Version", "Website Design", "
 
 ---
 
-### **Cons:**
+### **Cons**
 
 1. **Limited Advanced Customization:**  
    While Relume AI offers a good level of customization, it may not provide the same depth of control as traditional web design tools, potentially limiting more complex or unique designs.
@@ -89,6 +94,8 @@ tags: ["Develop", "Deliver", "Free Version", "Paid Version", "Website Design", "
 
 ---
 
-**Summary:**
+### **Summary**
 
 **Relume AI** is a powerful and accessible tool for creating modern, responsive websites quickly and efficiently. It is particularly well-suited for users who need to build professional websites without extensive design or coding skills. However, its limitations in advanced customization, potential costs, and reliance on templates may present challenges for those seeking highly unique or complex web design solutions.
+
+---

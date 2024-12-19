@@ -14,7 +14,7 @@ cover:
   image: 3dfy.jpg
   hidden: false
   hiddenInList: false
-tool: ["framer"]
+tool: ["3Dfy"]
 tags:
   - Develop
   - Deliver
@@ -29,6 +29,9 @@ tags:
   - Prototyping
 ---
  [3DFY AI](https://3dfy.ai/) is a cutting-edge AI tool designed to generate 3D models from simple inputs like 2D images or text descriptions. Leveraging advanced machine learning algorithms, 3DFY AI aims to simplify the 3D modeling process, making it accessible to a broader audience, including designers, game developers, architects, and even those with little to no experience in 3D modeling. By automating the creation of detailed 3D objects, 3DFY AI significantly reduces the time and effort typically required in traditional 3D design workflows.
+
+---
+
 ### Key Features:
 
 1. **2D-to-3D Conversion:**
@@ -51,6 +54,8 @@ tags:
 
 7. **Cloud-Based Processing:**
    As a cloud-based tool, 3DFY AI does not require powerful local hardware. Users can access the service from any device with an internet connection, enabling flexible and accessible 3D model creation.
+
+---
 
 ### Pros:
 
@@ -75,6 +80,8 @@ tags:
 7. **Interactive Real-Time Feedback:**
    The real-time rendering feature allows users to see immediate results, helping them make quick adjustments and ensuring the final output meets their expectations.
 
+---
+
 ### Cons:
 
 1. **Limited Customization Compared to Traditional Tools:**
@@ -98,4 +105,7 @@ tags:
 7. **Learning Curve for Best Results:**
    Although the tool is user-friendly, achieving the best results might still require some experimentation with input methods and customization settings, particularly for more intricate designs.
 
-**In summary**, **3DFY AI** is a powerful tool that democratizes 3D modeling by making it accessible to non-experts through AI-driven automation. It excels in quickly generating high-quality 3D models from simple inputs, making it a valuable asset for designers, developers, and creators. However, its limitations in customization, reliance on AI interpretation, and potential costs may pose challenges for users who require more control or are working on complex projects.
+---
+
+### **Summary**
+3DFY AI is a powerful tool that democratizes 3D modeling by making it accessible to non-experts through AI-driven automation. It excels in quickly generating high-quality 3D models from simple inputs, making it a valuable asset for designers, developers, and creators. However, its limitations in customization, reliance on AI interpretation, and potential costs may pose challenges for users who require more control or are working on complex projects.

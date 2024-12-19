@@ -7,6 +7,10 @@ cover:
   image: "/framer.svg"
   hidden: false
   hiddenInList: false
+DoubleDiamond: ["Discover", "Define", "Develop", "Deliver"]
+Input: ["Text"]
+Output: ["Other"]
+Price: ["Free","Paid"]
 tool: ["framer"]
 tags: ["Develop", "Deliver", "Free Version", "Paid Version", "Website Design", "Prototyping", "UI/UX Design"]
 ---
@@ -25,6 +29,8 @@ Price: Freemium -->
 [Framer.com](http://framer.com/) is a platform designed for creating interactive prototypes, websites, and design systems. FramerAI is framers AI assisten, which can be used in a multitude of ways from generating suggested looks and layouts of entire websites, to helping with translation on a current website. It is a powerfull tool in the right hands, but can be hard to use depending for bigger tasks.
 
 FramerAI is not the primary feature of Framer, which also means that it is meant to use together with the other features of Framer, and to get the best result it is recomended that framerAI is not used alone, but together with the other tools available on framer.
+
+---
 
 # Pros & Cons
 
@@ -64,23 +70,4 @@ FramerAI is not the primary feature of Framer, which also means that it is meant
     - **Integration Issues**: Integrating AI with existing design workflows and tools might present challenges.
     - **Bugs and Errors**: Like any software, AI tools can have bugs or produce errors, requiring manual intervention to fix.
 
-<!-- # FAQ
-
-[DTU AI Guidelines](/examples/landingpage/)
-
-{{ $examples := where .Site.RegularPages "Type" "examples" }}
-{{ $relatedExamples := where $examples "Params.tool" .Title }}
-
-{{ if $relatedExamples }}
-  <div class="tool-examples">
-    <h3>Examples Using {{ .Title }}</h3>
-    <ul>
-      {{ range $relatedExamples }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-          <p>{{ .Params.description }}</p>
-        </li>
-      {{ end }}
-    </ul>
-  </div>
-{{ end }} -->
+---
