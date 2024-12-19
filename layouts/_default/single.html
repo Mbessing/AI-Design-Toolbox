@@ -1,0 +1,64 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title entry-hint-parent">
+      {{ .Title }}
+      {{- if .Draft }}
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="35" viewBox="0 -960 960 960" fill="currentColor">
+          <path d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+      {{- end }}
+    </h1>
+    {{- if .Description }}
+    <div class="post-description">
+      {{ .Description }}
+    </div>
+    {{- end }}
+  </header>
+
+  {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" false) }}
+
+  <!-- Main Content -->
+  <div class="post-content">
+    {{- .Content }}
+  </div>
+
+  {{- if eq .Section "tools" }}
+  <!-- Related Examples Section -->
+  {{- $currentTool := .Params.tool }}
+  {{- $examples := where site.RegularPages "Section" "examples" | intersect (where site.RegularPages "Params.tool" "intersect" $currentTool) }}
+  {{- if $examples }}
+  <section style="margin-top: 40px;">
+    <h2 style="margin-bottom: 25px;">Related Examples</h2>
+    <div id="tool-list">
+      {{- range $examples }}
+      <article class="post-entry tool-item" 
+           style="display: block; background-color: var(--entry); border-radius: 10px;">
+        <!-- Flexbox layout for image and content -->
+        <div style="display: flex; align-items: center; gap: 15px;">
+          <div style="flex-shrink: 0;">
+            {{- partial "cover.html" (dict "cxt" . "IsSingle" false) }}
+          </div>
+          <div class="post-content" style="flex-grow: 1;">
+            <header class="entry-header">
+              <h2>{{ .Title }}</h2>
+            </header>
+            <div class="entry-content">{{ .Summary | plainify | htmlUnescape }}</div>
+          </div>
+        </div>
+        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+      </article>
+      {{- end }}
+    </div>
+  </section>
+  {{- end }}
+{{- end }}
+
+
+</article>
+
+{{- end }}

@@ -1,0 +1,160 @@
+{{- define "main" }}
+
+{{- if (and site.Params.profileMode.enabled .IsHome) }}
+  {{- partial "index_profile.html" . }}
+{{- else }}
+
+  {{- if .IsHome }}
+    <!-- Home Page Content -->
+    <header class="page-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}
+      <p>{{ . | markdownify }}</p>
+      {{ end }}
+    </header>
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+  {{- else }}
+
+    <!-- Page Header -->
+    {{- if .Title }}
+      <header class="page-header">
+        {{- partial "breadcrumbs.html" . }}
+        <h1>{{ .Title }}</h1>
+        {{- if .Description }}
+        <div class="post-description">{{ .Description | markdownify }}</div>
+        {{- end }}
+      </header>
+    {{- end }}
+
+    <!-- Search and Filters -->
+    {{- if or (eq .Section "tools") (eq .Section "examples") }}
+      <div style="display: flex; justify-content: center; margin-top: 20px; margin-bottom: 30px;">
+        <div style="max-width: 700px; width: 100%;">
+          <div id="searchbox">
+            <input id="searchInput" placeholder="Search here..." type="search" autocomplete="off" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px;">
+          </div>
+          <div id="filters" style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
+            <div style="flex: 1; min-width: 120px;">
+              <label for="doubleDiamondFilter"><strong>Double Diamond</strong></label>
+              <select id="doubleDiamondFilter" style="width: 100%; padding: 8px; border-radius: 5px;">
+                <option value="">All Stages</option>
+                <option value="Discover">Discover</option>
+                <option value="Define">Define</option>
+                <option value="Develop">Develop</option>
+                <option value="Deliver">Deliver</option>
+              </select>
+            </div>
+            <div style="flex: 1; min-width: 120px;">
+              <label for="inputFilter"><strong>Input</strong></label>
+              <select id="inputFilter" style="width: 100%; padding: 8px; border-radius: 5px;">
+                <option value="">All Inputs</option>
+                <option value="Text">Text</option>
+                <option value="Image">Image</option>
+                <option value="Audio">Audio</option>
+                <option value="Video">Video</option>
+              </select>
+            </div>
+            <div style="flex: 1; min-width: 120px;">
+              <label for="outputFilter"><strong>Output</strong></label>
+              <select id="outputFilter" style="width: 100%; padding: 8px; border-radius: 5px;">
+                <option value="">All Outputs</option>
+                <option value="Text">Text</option>
+                <option value="Image">Image</option>
+                <option value="Audio">Audio</option>
+                <option value="Video">Video</option>
+              </select>
+            </div>
+            <div style="flex: 1; min-width: 120px;">
+              <label for="priceFilter"><strong>Price</strong></label>
+              <select id="priceFilter" style="width: 100%; padding: 8px; border-radius: 5px;">
+                <option value="">All Prices</option>
+                <option value="Free">Free</option>
+                <option value="Paid">Paid</option>
+                <option value="Subscription">Subscription</option>
+              </select>
+            </div>
+          </div>
+        </div>
+      </div>
+    {{- end }}
+
+    <!-- Section Content -->
+    {{- $items := where site.RegularPages "Section" .Section }}
+    <div id="tool-list">
+      {{- range $items }}
+        <article class="post-entry tool-item" 
+                 data-title="{{ .Title | lower }}" 
+                 data-description="{{ .Summary | lower }}"
+                 data-double-diamond="{{ if .Params.DoubleDiamond }}{{ delimit .Params.DoubleDiamond ", " | lower }}{{ end }}"
+                 data-input="{{ if .Params.Input }}{{ delimit .Params.Input ", " | lower }}{{ end }}"
+                 data-output="{{ if .Params.Output }}{{ delimit .Params.Output ", " | lower }}{{ end }}"
+                 data-price="{{ if .Params.Price }}{{ delimit .Params.Price ", " | lower }}{{ end }}"
+                 style="display: block;">
+          <!-- Flexbox layout for image and content -->
+          <div style="display: flex; align-items: center; gap: 15px;">
+            <div style="flex-shrink: 0;">
+              {{- partial "cover.html" (dict "cxt" . "IsSingle" false) }}
+            </div>
+            <div class="post-content" style="flex-grow: 1;">
+              <header class="entry-header">
+                <h2>{{ .Title }}</h2>
+              </header>
+              <div class="entry-content">{{ .Summary | plainify | htmlUnescape }}</div>
+            </div>
+          </div>
+          <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+        </article>
+      {{- end }}
+    </div>
+
+    <!-- JavaScript for Search and Filters -->
+    <script>
+      const searchInput = document.getElementById('searchInput');
+      const doubleDiamondFilter = document.getElementById('doubleDiamondFilter');
+      const inputFilter = document.getElementById('inputFilter');
+      const outputFilter = document.getElementById('outputFilter');
+      const priceFilter = document.getElementById('priceFilter');
+
+      function filterTools() {
+        const query = searchInput.value.toLowerCase();
+        const selectedDoubleDiamond = doubleDiamondFilter.value.toLowerCase();
+        const selectedInput = inputFilter.value.toLowerCase();
+        const selectedOutput = outputFilter.value.toLowerCase();
+        const selectedPrice = priceFilter.value.toLowerCase();
+
+        const tools = document.querySelectorAll('.tool-item');
+        tools.forEach(tool => {
+          const title = tool.getAttribute('data-title') || '';
+          const description = tool.getAttribute('data-description') || '';
+          const doubleDiamond = tool.getAttribute('data-double-diamond') || '';
+          const input = tool.getAttribute('data-input') || '';
+          const output = tool.getAttribute('data-output') || '';
+          const price = tool.getAttribute('data-price') || '';
+
+          const matchesQuery = title.includes(query) || description.includes(query);
+          const matchesDoubleDiamond = !selectedDoubleDiamond || doubleDiamond.includes(selectedDoubleDiamond);
+          const matchesInput = !selectedInput || input.includes(selectedInput);
+          const matchesOutput = !selectedOutput || output.includes(selectedOutput);
+          const matchesPrice = !selectedPrice || price.includes(selectedPrice);
+
+          if (matchesQuery && matchesDoubleDiamond && matchesInput && matchesOutput && matchesPrice) {
+            tool.style.display = "block";
+          } else {
+            tool.style.display = "none";
+          }
+        });
+      }
+
+      searchInput.addEventListener('input', filterTools);
+      doubleDiamondFilter.addEventListener('change', filterTools);
+      inputFilter.addEventListener('change', filterTools);
+      outputFilter.addEventListener('change', filterTools);
+      priceFilter.addEventListener('change', filterTools);
+    </script>
+
+  {{- end }}
+{{- end }}
+
+{{- end }}
