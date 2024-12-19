@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cc38d4d88f42ac09",
+        "id": "70fb07f8bd343829",
         "type": "tabs",
         "children": [
           {
-            "id": "7c331b04f14299bd",
+            "id": "fe9cc1f6a17f6c32",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "static/attachments/3dfy.jpg"
+                "file": "content/tools/3Dfy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "3dfy"
+              "icon": "lucide-file",
+              "title": "3Dfy"
             }
           }
         ]
@@ -298,8 +300,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "e395b6c6c2da21a9",
+  "active": "fe9cc1f6a17f6c32",
   "lastOpenFiles": [
+    "static/attachments/team-photo-3979775.jpg",
+    "static/attachments/3dfy.jpg",
     "static/attachments",
     "team-photo-3979775.jpg",
     "1674467533.jpg",
@@ -322,13 +326,11 @@
     "static/attachments/murf.png",
     "static/attachments/Midjourney_Emblem.svg",
     "static/attachments/magic_studio.png",
-    "static/attachments/Leonardo.jpg",
     "static/inspiration",
     "static",
     "layouts/partials/templates/_funcs/get-page-images.html",
     "layouts/_default/_markup/render-image.html",
     "layouts/partials/templates/twitter_cards.html",
-    "layouts/partials/templates/_funcs",
     "content/tools/Vizcom.md",
     "content/tools/Vectorizer AI.md",
     "content/tools/Uizard Autodesigner.md",
