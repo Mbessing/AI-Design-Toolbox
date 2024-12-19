@@ -1,17 +1,31 @@
 ---
-title: "3DFY AI"
+title: 3DFY AI Test
 description: ""
 hiddenInHomeList: true
-DoubleDiamond: ["Discover"]
-Input: ["Text"]
-Output: ["Image"]
-Price: ["Free"]
-
+DoubleDiamond:
+  - Discover
+Input:
+  - Text
+Output:
+  - Image
+Price:
+  - Free
 cover:
-  image: "3dfy.jpg"
+  image: 3dfy.jpg
   hidden: false
   hiddenInList: false
-tags: ["Develop", "Deliver", "Free Version", "Paid Version", "3D Modeling", "Product Design", "Prototyping"]
+tags:
+  - Develop
+  - Deliver
+  - Free
+  - Version
+  - Paid
+  - Version
+  - 3D
+  - Modeling
+  - Product
+  - Design
+  - Prototyping
 ---
 
 

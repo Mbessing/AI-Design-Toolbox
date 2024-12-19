@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tools/3Dfy1112.md",
+                "file": "content/tools/3Dfy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3Dfy1112"
+              "title": "3Dfy"
             }
           }
         ]
@@ -300,8 +300,12 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "13eace9e6b4575ed",
+  "active": "7c331b04f14299bd",
   "lastOpenFiles": [
+    "content/tools/Google Gemini.md",
+    "content/tools/DALL.E.md",
+    "content/tools/Almanack AI.md",
+    "content/tools/3Dfy.md",
     "content/tools/_index.md",
     "Welcome.md",
     "create a link.md",
@@ -334,15 +338,11 @@
     "content/tools/Midjourney.md",
     "content/tools/Magic Studio.md",
     "content/tools/Leonardo.AI.md",
-    "content/tools/Google Gemini.md",
     "content/tools/FramerAI.md",
     "content/tools/Figjam AI.md",
     "content/tools/Facet.md",
-    "content/tools/DALL.E.md",
     "content/tools/chatgpt.md",
-    "content/tools/Almanack AI.md",
     "content/tools/Adobe Firefly.md",
-    "content/tools/3Dfy1112.md",
     "content/guidelines/index.md",
     "content/examples/Landingpage.md",
     "content/examples/_index.md",
