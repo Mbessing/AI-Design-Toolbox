@@ -10,8 +10,8 @@ cover:
   hiddenInList: false  
 DoubleDiamond: ["Define", "Develop", "Deliver"]
 Input: ["Other"]
-Output: ["Image"]
-Price: ["Paid"]
+Output: ["Other"]
+Price: ["Free","Paid"]
 tool: ["Almanack AI"]  
 tags: ["Scheduling",  "Time Management", "Free Version", "Paid Version"]
 ---

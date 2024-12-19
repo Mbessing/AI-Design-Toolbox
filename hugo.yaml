@@ -36,10 +36,10 @@ menu:
     #   url: /search/
     #   weight: 60
 
-    # - name: Tags
-    #   identifier: tags
-    #   url: /tags/
-    #   weight: 70
+    - name: Tags
+      identifier: tags
+      url: /tags/
+      weight: 70
 
 
 outputs:

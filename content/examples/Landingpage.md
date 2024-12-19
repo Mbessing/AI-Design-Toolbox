@@ -1,11 +1,15 @@
 ---
 title: Landing Page with Framer AI
 hiddenInHomeList: true
+DoubleDiamond: ["Discover", "Define", "Develop", "Deliver"]
+Input: ["Text"]
+Output: ["Other"]
+Price: ["Free","Paid"]
 tool: ["framer"]
 tags: [ "landingpage", "website", "Framer" ]
 # author: Lucas Bessing
 cover:
-  image: "/framer.svg"
+  image: "/Landing_Page_14.png"
   hidden: false
   hiddenInList: false
 ---
