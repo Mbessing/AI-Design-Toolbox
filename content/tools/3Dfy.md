@@ -1,6 +1,6 @@
 ---
 title: 3DFY AI Test
-description: ""
+description: test description
 hiddenInHomeList: true
 DoubleDiamond:
   - Discover
