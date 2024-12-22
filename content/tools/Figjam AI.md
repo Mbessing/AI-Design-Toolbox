@@ -4,7 +4,7 @@ description:
 hiddenInHomeList: true  
 # date: 4-08-29  
 cover:  
-  image: "figjam.png"  
+  image: "attachments/figjam.png"  
   hidden: false  
   hiddenInList: false 
   

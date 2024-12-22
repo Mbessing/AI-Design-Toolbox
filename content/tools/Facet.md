@@ -4,7 +4,7 @@ description:
 hiddenInHomeList: true  
 # date: 2024-08-29  
 cover:  
-  image: "Facet.jpg"  
+  image: "attachments/Facet.jpg"  
   hidden: false  
   hiddenInList: false  
 

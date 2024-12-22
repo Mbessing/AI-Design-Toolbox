@@ -4,7 +4,7 @@ description:
 hiddenInHomeList: true
 # date: 2024-08-08
 cover:
-  image: "/ChatGPT_logo.svg.png"
+  image: "attachments/ChatGPT_logo.svg.png"
   hidden: false
   hiddenInList: false
 DoubleDiamond: ["Discover", "Define", "Develop", "Deliver"]

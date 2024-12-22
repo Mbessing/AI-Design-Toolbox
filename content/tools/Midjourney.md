@@ -4,7 +4,7 @@ description:
 hiddenInHomeList: true
 # date: 2024-08-08
 cover:
-  image: "Midjourney_Emblem.svg"
+  image: "attachments/Midjourney_Emblem.svg"
   hidden: false
   hidden: false
   hiddenInList: false

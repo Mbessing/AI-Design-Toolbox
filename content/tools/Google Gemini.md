@@ -4,7 +4,7 @@ description:
 hiddenInHomeList: true
 # date: 2024-08-08
 cover:
-  image: "google-gemini-icon.svg"
+  image: "attachments/google-gemini-icon.svg"
   hidden: false
   hidden: false
   hiddenInList: false

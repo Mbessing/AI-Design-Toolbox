@@ -8,7 +8,7 @@ Output: ["Image"]
 Price: ["Paid"]
 tool: ["Adobe Firefly"]
 cover:
-  image: "Adobe_Firefly.svg"
+  image: "attachments/Adobe_Firefly.svg"
   hidden: false
   hiddenInList: false
 tags: ["Define", "Develop", "Deliver", "Paid Version", "Image Generation", "Photo Editing"]

@@ -4,7 +4,7 @@ description:
 hiddenInHomeList: true  
 # date: 2024-08-29  
 cover:  
-  image: "Leonardo.jpg"  
+  image: "attachments/Leonardo.jpg"  
   hidden: false  
   hiddenInList: false  
 DoubleDiamond: ["Define", "Develop", "Deliver"]

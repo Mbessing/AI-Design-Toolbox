@@ -4,7 +4,7 @@ description:
 hiddenInHomeList: true  
 # date: 2024-08-29  
 cover:  
-  image: "relume_ai.png"  
+  image: "attachments/relume_ai.png"  
   hidden: false  
   hiddenInList: false  
 DoubleDiamond: ["Define", "Develop", "Deliver"]

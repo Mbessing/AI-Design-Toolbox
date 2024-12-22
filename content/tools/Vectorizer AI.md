@@ -4,7 +4,7 @@ description:
 hiddenInHomeList: true
 # date: 2024-08-23
 cover:
-  image: "/vectorizer.png"
+  image: "attachments/vectorizer.png"
   hidden: false
   hiddenInList: false
 DoubleDiamond: ["Develop", "Deliver"]

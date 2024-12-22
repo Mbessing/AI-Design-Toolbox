@@ -11,8 +11,7 @@ Output:
 Price:
   - Free
 cover:
-  image: 3dfy.jpg
-  hidden: false
+  image:  "attachments/3dfy.jpg"
   hiddenInList: false
 tool: ["3Dfy"]
 tags:

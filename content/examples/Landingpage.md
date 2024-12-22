@@ -9,7 +9,7 @@ tool: ["framer"]
 tags: [ "landingpage", "website", "Framer" ]
 # author: Lucas Bessing
 cover:
-  image: "/Landing_Page_14.png"
+  image: "attachments/Landing_Page_14.png"
   hidden: false
   hiddenInList: false
 ---

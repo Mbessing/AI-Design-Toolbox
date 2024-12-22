@@ -4,7 +4,7 @@ description:
 hiddenInHomeList: true
 # date: 2024-08-08
 cover:
-  image: "/framer.svg"
+  image: "attachments/framer.svg"
   hidden: false
   hiddenInList: false
 DoubleDiamond: ["Discover", "Define", "Develop", "Deliver"]

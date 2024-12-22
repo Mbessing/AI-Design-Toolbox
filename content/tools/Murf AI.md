@@ -4,7 +4,7 @@ description:
 hiddenInHomeList: true  
 # date: 2024-08-29  
 cover:  
-  image: "murf.png"  
+  image: "attachments/murf.png"  
   hidden: false  
   hiddenInList: false  
 DoubleDiamond: ["Develop", "Deliver"]
